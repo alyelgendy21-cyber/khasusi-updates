@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVnYrR1ZTMlZFcUdFM0J1QnFIVExXNUpHbnI5SEV0czZ3K2V2SWtzVml0djZNQStMdWpjNytnaWxqS2xEVWZGUWN5eXhYT3VSWFdPOXJ2MzZHWkVOWEliMTVYZWx0U0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTg3NTE5CWZpbGU62KfYrtiq2LXYp9i12YpfMy40LjFfeDY0LXNldHVwLmV4ZQpDWnBLREhGOUpublQxRWtlTmFXSFdyc2xja0hQYnJ2RUdIN0dmMHd1NG5lSDlMTTFReFZML3l0WmJhdW9tMHR1cndOK3J3WWdhWU5yN1FUUjVnUWNEZz09Cg==",
-                                             "url":  "https://github.com/alyelgendy21-cyber/khasusi-updates/releases/download/v3.4.1/khasusi_3.4.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVnYrR1ZTMlZFcVAyUVJ5TGFFRU5aSDU0Q2xqL1VsUEVNL2FINC9YeE5PMy9iMU1aRzlBa09NMlNzUWJVWGFzTEJEY29CVTV2SVRuOHYrVW5MekE0YjZmL2N4ZFVHOFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTg4MzAxCWZpbGU62KfYrtiq2LXYp9i12YpfMy40LjJfeDY0LXNldHVwLmV4ZQpCT095UEtoajRRUWRUSXRBVDlvOHRIK0pFaGVvR3BwSGJCNlgzdHdZV0lQR1RkbnJIeHpFbmp1U1VpRHVDSUdoRTJBWWQwdzZaMFdHbnZzZkwrcWhBZz09Cg==",
+                                             "url":  "https://github.com/alyelgendy21-cyber/khasusi-updates/releases/download/v3.4.2/khasusi_3.4.2_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-07-21T01:45:35Z",
-    "version":  "3.4.1",
-    "notes":  "الإصدار 3.4.1"
+    "pub_date":  "2026-07-21T01:58:30Z",
+    "version":  "3.4.2",
+    "notes":  "الاصدار 3.4.2"
 }
