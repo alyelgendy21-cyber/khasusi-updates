@@ -1,11 +1,11 @@
 {
-  "notes": "الإصدار 3.3.9",
   "version": "3.3.9",
-  "pub_date": "2026-07-21T01:35:55Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVnYrR1ZTMlZFcUhuTzVxNzFiNVFDcU5kZW4zZUxja2g5dzJrdkZZUk9BR05BLzg5RUVXMW5KMzZqVlNTRlZVWXNHOC9vYTI0THdHcDBTVVRWNWRrbWNqZjIrVy93ZkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTg1NDg4CWZpbGU62KfYrtiq2LXYp9i12YpfMy4zLjlfeDY0LXNldHVwLmV4ZQpOOHdPN21Bb01NcXZBZUFVdXd1YkhwejdpejEzZ0dZQWVLWFJNU1M3Ly9kdjVVeHhLMDNtclJValFlZCtWbUYyYkZGb3pzT3ZPVi9uSmlkRnZOVVJDQT09Cg==",
+      "url": "https://github.com/alyelgendy21-cyber/khasusi-updates/releases/download/v3.3.9/khasusi_3.3.9_x64-setup.exe"
     }
-  }
+  },
+  "notes": "الإصدار 3.3.9",
+  "pub_date": "2026-07-21T01:36:28Z"
 }
