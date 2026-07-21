@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVnYrR1ZTMlZFcUxOQlphc0M5SzZqOCtoTHFIaEJ1YjBGQTNjSHJQa2VBVHdEYThSVG1KNElUckE1SG1PZmN1RmdHSFZBWVg4eS9GQXBIajdVelhEVm9sSSt3YTY2TmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjMwODAzCWZpbGU62KfYrtiq2LXYp9i12YpfMy40LjZfeDY0LXNldHVwLmV4ZQoxWTY3b2pKMWdjOFZXRXNuVkpyS1VRZlVaNlkzR1VoaVhwTUhnZTVldENlZ1pycXNRbTVZOHByQnRqVkFhWTFkdnZydkZaWjRCb1JIRGdWVDNvcmRDUT09Cg==",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVnYrR1ZTMlZFcUM1OFRHdTFOc0duejBLOUtXZ0oyUld6ak1qZ1ZNeEdobmFXZUFwVU9XNkZlbVVTNFd2eFJTNjF5RUUrbC9Tb2RYbXZkbDFIa0ZxcHdRcDNpR2NvTnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjMxNjQ4CWZpbGU62KfYrtiq2LXYp9i12YpfMy40LjZfeDY0LXNldHVwLmV4ZQpaWkJndUFEV1d1K1l6VFhEZGt1Q3g1L3BaRFFDRHQ0dHJnZTJNWnlCbnhJYnIwU0JCRG5DQU1CQ1ZDK3Voc3h0cTQwVTNycHBYcE9xLy9RN3BjVkhCUT09Cg==",
                                              "url":  "https://github.com/alyelgendy21-cyber/khasusi-updates/releases/download/v3.4.6/khasusi_3.4.6_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-07-21T13:46:52Z",
+    "pub_date":  "2026-07-21T14:01:06Z",
     "version":  "3.4.6",
     "notes":  "الاصدار 3.4.6"
 }
